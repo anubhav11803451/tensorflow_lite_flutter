@@ -2,8 +2,7 @@
 
 A flutter app to demonstrate usage of tensor flow lite ML.
 
-![App Demo](pictures/image1.gif)
-![Teachable Machine](pictures/image2.gif)
+
 
 The "TensorFlow" model is trained using [Teachable Machines](https://teachablemachine.withgoogle.com/train). The model is trained with different texture colors of walls. App will recognize the color and classify the color according to best match. This app will load a pre-trained model and start classification on frames received from Camera Controller. App will show results in real-time along with confidence percentages.
 
